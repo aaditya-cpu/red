@@ -1,0 +1,7 @@
+West Bengal: 443
+Warangal: 86
+Yelahanka : 52
+Yamunanagar : 24
+Warangal : 12
+Washim : 5
+Yamunanagar: 4

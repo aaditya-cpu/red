@@ -1,0 +1,20 @@
+ICSE School: 93
+CBSE School: 69
+Kids School: 65
+Private School: 64
+School: 58
+English Medium School: 53
+International School: 48
+IB school: 41
+SSC School: 30
+Play School: 24
+Schools: 24
+Boarding school: 18
+Private Schoos: 17
+Board School: 12
+State Board School: 3
+Primary School: 2
+DPS School: 2
+Specially Abled: 1
+Specially abled: 1
+Doon School: 1
